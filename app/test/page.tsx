@@ -5,7 +5,7 @@ import React from 'react'
 import EmblaCarousel from "@/components/EmblaCarousel";
 
 import { EmblaOptionsType } from 'embla-carousel'
-import './globals.css';
+import '../globals.css';
 
 const OPTIONS: EmblaOptionsType = { dragFree: true, loop: true }
 const SLIDE_COUNT = 4
