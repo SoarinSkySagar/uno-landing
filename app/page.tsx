@@ -1,9 +1,9 @@
 "use client"
-import Image from "next/image";
+
 import React from 'react'
-import useEmblaCarousel from 'embla-carousel-react'
+
 import EmblaCarousel from "@/components/EmblaCarousel";
-import ReactDOM from 'react-dom/client'
+
 import { EmblaOptionsType } from 'embla-carousel'
 import './globals.css';
 
